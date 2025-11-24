@@ -1,7 +1,5 @@
 \# Задание 2.1: Тестирование API микросервиса объявлений
 
-
-
 \## Описание
 
 Микросервис позволяет:
@@ -15,34 +13,18 @@
 \- Получать статистику по `item id`
 
 
-
 \*\*Host\*\*: `https://qa-internship.avito.com`
-
-
-
 API версии: `/api/1/...` и `/api/2/...`
 
-
-
 ---
-
-
-
 \- Операционная система: \*\*Windows\*\*, \*\*macOS\*\* или \*\*Linux\*\*
 
 \- Python ≥ \*\*3.8\*\*
 
 \- `pip` 
 
-
-
-
-
 \## Установка и настройка
-
-
-
 1\. Склонируйте репозиторий
 
-git clone https://github.com/KhElyus/avito-api-tests.git
+git clone [https://github.com/KhElyus/avito-api-tests.git](https://github.com/Khelyus/avito_test_task.git)
 
