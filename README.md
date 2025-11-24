@@ -17,14 +17,22 @@
 API версии: `/api/1/...` и `/api/2/...`
 
 ---
-\- Операционная система: \*\*Windows\*\*, \*\*macOS\*\* или \*\*Linux\*\*
+- Операционная система: \*\*Windows\*\*, \*\*macOS\*\* или \*\*Linux\*\*
 
-\- Python ≥ \*\*3.8\*\*
+- Python ≥ \*\*3.8\*\*
 
-\- `pip` 
+- `pip` 
 
-\## Установка и настройка
+## Установка и настройка
 1\. Склонируйте репозиторий
-
 git clone [https://github.com/KhElyus/avito-api-tests.git](https://github.com/Khelyus/avito_test_task.git)
+
+2. Перейдите в директорию проекта
+cd avito_test_task
+
+3. Установка зависимостей
+python -m venv venv
+pip install -r requirements.txt
+4. Запустите тесты
+pytest test_api.py -v  
 
