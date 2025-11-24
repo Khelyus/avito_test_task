@@ -22,7 +22,7 @@ API версии: `/api/1/...` и `/api/2/...`
 
 ## Установка и настройка
 1. Склонируйте репозиторий
-- git clone [https://github.com/KhElyus/avito-api-tests.git](https://github.com/Khelyus/avito_test_task.git)
+- git clone [https://github.com/KhElyus/avito-api-tests.git](https://github.com/Khelyus/avito_test_task.git)](https://github.com/Khelyus/avito_test_task.git)
 
 2. Перейдите в директорию проекта
 - cd avito_test_task
